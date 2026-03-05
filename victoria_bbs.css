@@ -15,9 +15,9 @@
   --red-bright:   #8b2a2a;
   --border:       #8a9a78;
   --border2:      #9aaa88;
-  --text:         #1a3a0a;
-  --text-dim:     #2a5a18;
-  --text-muted:   #4a7a38;
+  --text:         #8fba5e;
+  --text-dim:     #4a6a2e;
+  --text-muted:   #2e4a1e;
 }
 
 *, *::before, *::after {
